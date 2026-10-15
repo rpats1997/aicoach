@@ -1,0 +1,10 @@
+**/node_modules
+**/.venv
+**/dist
+**/.expo
+**/.git
+**/__pycache__
+**/*.pyc
+mobile/ios
+mobile/android
+mobile/.env
